@@ -1,1 +1,0 @@
-You can get the LEF file we released (cicuitnet.lef) from Google Drive or Baidu Netdisk (/CircuitNet-N28/LEF&DEF/circuitnet.lef)
